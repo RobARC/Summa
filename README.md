@@ -3,7 +3,7 @@
 ## Sistema de información Summa
 
 ## Consideraciones
-Este sistem cuenta con dos funcionalidades. la primera obtener datos para hacer calculos estadísticos y
+Este sistema cuenta con dos funcionalidades. la primera obtener datos para hacer calculos estadísticos y
 la segunda para imprimir o dibujar una imagen con el caracter "#".
 
 La implemetación se hace a trves de tres agentes, los cuales cada uno puede prestar un servicio unico de 
