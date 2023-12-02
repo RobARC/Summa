@@ -3,10 +3,10 @@
 ## Sistema de información Summa
 
 ## Consideraciones
-Este sistme cuenta con dos funcionalidades. la primera obtener datos para hacer calculos estdisticos y
+Este sistem cuenta con dos funcionalidades. la primera obtener datos para hacer calculos estadísticos y
 la segunda para imprimir o dibujar una imagen con el caracter "#".
 
-La implmetación se hace a trves de tres agentes, los cuales cada uno puede prestar un servicio unico de 
+La implemetación se hace a trves de tres agentes, los cuales cada uno puede prestar un servicio unico de 
 ambas funciones.
 
 Se utilizaron proncipios de arquitectura limpia y patrones de diseño SOLID.
@@ -24,7 +24,7 @@ Se utilizaron proncipios de arquitectura limpia y patrones de diseño SOLID.
 <li>Clona este repositorio en tu máquina: https://github.com/RobARC/MachEight_2023.git</li> 
 <li>Selecciona tu sistema operativo</li>
 <li>Compruena si tienes instalado el SDK de .NET con este comando : <b>dotnet --list-sdks</b></li>
-<li>TPara correr el programa, ve a la carpeta .\SummaProject\ y escribe esto en tu consola : dotnet run </li>
+<li>Para correr el programa, ve a la carpeta .\SummaProject\ y escribe esto en tu consola : dotnet run </li>
 <li>Elige el tipo de Servicio</li>
 <li>Luego elige un agente o una funcionalidad </li>
 <li>Escribe correctamente los datos que se solicitan </li>
