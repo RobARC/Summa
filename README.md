@@ -6,7 +6,7 @@
 Este sistema cuenta con dos funcionalidades. la primera obtener datos para hacer calculos estadísticos y
 la segunda para imprimir o dibujar una imagen con el caracter "#".
 
-La implemetación se hace a trves de tres agentes, los cuales cada uno puede prestar un servicio unico de 
+La implemetación se hace a tráves de tres agentes, los cuales cada uno puede prestar un servicio único de 
 ambas funciones.
 
 Se utilizaron proncipios de arquitectura limpia y patrones de diseño SOLID.
@@ -21,9 +21,9 @@ Se utilizaron proncipios de arquitectura limpia y patrones de diseño SOLID.
 
 
 ## Como Usarlo
-<li>Clona este repositorio en tu máquina: https://github.com/RobARC/MachEight_2023.git</li> 
+<li>Clona este repositorio en tu máquina: https://github.com/RobARC/Summa</li> 
 <li>Selecciona tu sistema operativo</li>
-<li>Compruena si tienes instalado el SDK de .NET con este comando : <b>dotnet --list-sdks</b></li>
+<li>Comprueba si tienes instalado el SDK de .NET con este comando : <b>dotnet --list-sdks</b></li>
 <li>Para correr el programa, ve a la carpeta .\SummaProject\ y escribe esto en tu consola : dotnet run </li>
 <li>Elige el tipo de Servicio</li>
 <li>Luego elige un agente o una funcionalidad </li>
