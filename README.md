@@ -29,7 +29,8 @@ Se utilizaron proncipios de arquitectura limpia y patrones de diseño SOLID.
 <li>Luego elige un agente o una funcionalidad </li>
 <li>Escribe correctamente los datos que se solicitan </li>
 <li>Espera los resultados</li>
-
+<li>Para correr las pruebas, ve a la carpeta .\TestSumma\ y escribe esto en tu consola : dotnet test </li>
+<li>Espera los resultados</li>
 
 ## Author: 
 RobARC
